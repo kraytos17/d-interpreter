@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"Soumil Kumar"
+	],
+	"copyright": "Copyright © 2025, Soumil Kumar",
+	"description": "Writing an Interpreter by Thorsten Ball implemented in D",
+	"license": "MIT",
+	"name": "interpreter"
+}
